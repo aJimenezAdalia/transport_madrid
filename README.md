@@ -14,4 +14,4 @@ In this project we are assuming a software developer role, that have to make som
 3. Make a scalable Python structure, object-oriented based, with abstract methods
 4. Code the program functionality
 5. Make config files to structure the requests
-6. Test the funcitonality
+6. Test the functionality
